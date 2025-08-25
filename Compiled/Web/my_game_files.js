@@ -1,0 +1,1 @@
+var gamefiles = ['My_Room.ags', 'acsetup.cfg'];
